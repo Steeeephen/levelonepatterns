@@ -1,0 +1,1 @@
+Jupyter notebook describing an analysis done on level one patterns of a professional LoL team using predictive modelling. Can be found in full at [the kaggle page](https://www.kaggle.com/stephenofarrell/identifying-patterns-in-lol-level-ones)
